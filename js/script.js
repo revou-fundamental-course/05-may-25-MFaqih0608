@@ -1,3 +1,4 @@
+alert('Selamat datang di webstite Travel Murah Mfaqih!');
 // Auto slide banner images
 const slides = document.querySelectorAll('.slide');
 let currentSlide = 0;
@@ -52,3 +53,4 @@ form.addEventListener('submit', function (e) {
 
   // Jika lolos validasi, form bisa dikirim
 });
+// Selesai 
